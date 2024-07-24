@@ -400,3 +400,6 @@ FodyWeavers.xsd
 # Ambiente virtual
 env
 env/
+.env
+.sqlite3
+*.sqlite3
